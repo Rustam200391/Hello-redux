@@ -6,4 +6,4 @@ Redux is a JavaScript implementation of Flux. This implementation is convenient 
 
 Redux is a JavaScript implementation of Flux. This implementation is convenient to use in web applications to manage the overall global state. It has a special binding for use with React.
 
-To clone an application, you need to run the command in the terminal: "git clone".
+To clone an application, you need to run the command in the terminal: "git clone" and enter the url of the github repository specified when clicking on the "code" button in the url tab.
