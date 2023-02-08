@@ -9,3 +9,5 @@ Redux is a JavaScript implementation of Flux. This implementation is convenient 
 To clone an application, you need to run the command in the terminal: "git clone" and enter the url of the github repository specified when clicking on the "code" button in the url tab.
 
 You need to clone while in the folder where the application will be located.
+
+After successful cloning, being in the same folder, you need to install all the dependencies by running the command: "npm install".
