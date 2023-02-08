@@ -11,3 +11,5 @@ To clone an application, you need to run the command in the terminal: "git clone
 You need to clone while in the folder where the application will be located.
 
 After successful cloning, being in the same folder, you need to install all the dependencies by running the command: "npm install".
+
+Happy hacking!
